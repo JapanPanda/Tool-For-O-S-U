@@ -12,6 +12,7 @@ Purposely stripped of the other minor files and .dlls in order to compile so tha
 # And no, this is not for sale so please don't ask.
 Language used:  
 C#  
+.NET framework from Visual Studio used
 
 
 Demo of this can be found in this early beta video:
